@@ -6,7 +6,7 @@
     <atom:link href="https://joycenotebook.github.io/spontaneous-prose/feed.xml" rel="self" type="application/rss+xml" />
     <description>An all-English podcast by Joyce. Spoken drafts, not recitations — English you can hear at full speed.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:49:30 +0000</lastBuildDate>
     <generator>spontaneous-prose</generator>
     <itunes:owner>
       <email>lijiexin2010@163.com</email>
@@ -31,18 +31,19 @@
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;&lt;th&gt;Time&lt;/th&gt;&lt;th&gt;Topic&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;0:00&lt;/td&gt;&lt;td&gt;Welcome to Spontaneous Prose; tonight’s topic is a sense of ease.&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;0:37&lt;/td&gt;&lt;td&gt;Ease as another word for being present, and the years that stopped feeling that way.&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;2:08&lt;/td&gt;&lt;td&gt;Urgent versus important: the two-by-two matrix that will not line up.&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;4:26&lt;/td&gt;&lt;td&gt;The list keeps growing, and Toastmasters still gets missed.&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;4:49&lt;/td&gt;&lt;td&gt;Why some people seem to have a career, a body, and a family all at once.&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;5:28&lt;/td&gt;&lt;td&gt;No solution — spit it out at two in the morning, then the light goes off.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;0:00&lt;/td&gt;&lt;td&gt;Opening music.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;0:06&lt;/td&gt;&lt;td&gt;Welcome to Spontaneous Prose; tonight’s topic is a sense of ease.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;0:43&lt;/td&gt;&lt;td&gt;Ease as another word for being present, and the years that stopped feeling that way.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2:14&lt;/td&gt;&lt;td&gt;Urgent versus important: the two-by-two matrix that will not line up.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;4:31&lt;/td&gt;&lt;td&gt;The list keeps growing, and Toastmasters still gets missed.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;4:55&lt;/td&gt;&lt;td&gt;Why some people seem to have a career, a body, and a family all at once.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5:34&lt;/td&gt;&lt;td&gt;No solution — spit it out at two in the morning, then the light goes off.&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://joycenotebook.github.io/spontaneous-prose/audio/ep-001.mp3" type="audio/mpeg" length="5851820" />
+      <enclosure url="https://joycenotebook.github.io/spontaneous-prose/audio/ep-001.mp3?resync=2026-11-14-intro" type="audio/mpeg" length="5938407" />
       <guid isPermaLink="true">https://joycenotebook.github.io/spontaneous-prose/audio/ep-001.mp3</guid>
-      <itunes:duration>6:06</itunes:duration>
+      <itunes:duration>6:11</itunes:duration>
       <itunes:title>A Sense of Ease</itunes:title>
       <itunes:subtitle>A Toastmasters prepared speech, and the first episode of Spontaneous Prose: why a sense of ease is so hard to feel when </itunes:subtitle>
       <itunes:summary>A Toastmasters prepared speech, and the first episode of Spontaneous Prose: why a sense of ease is so hard to feel when the urgent list never ends.</itunes:summary>
