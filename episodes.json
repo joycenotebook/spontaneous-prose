@@ -15,13 +15,13 @@
       "id": "ep-001",
       "title": "A Sense of Ease",
       "file": "ep-001.mp3",
-      "duration_sec": 400,
-      "size_bytes": 6393564,
+      "duration_sec": 395,
+      "size_bytes": 6324601,
       "desc": "A Toastmasters prepared speech, and the first episode of Spontaneous Prose: why a sense of ease is so hard to feel when the urgent list never ends.",
       "pub_date": "2026-11-14",
       "listed": true,
       "guid": "https://joycenotebook.github.io/spontaneous-prose/audio/ep-001.mp3",
-      "resync": "2026-11-14-live-outro"
+      "resync": "2026-11-14-tts-outro"
     }
   ]
 }
