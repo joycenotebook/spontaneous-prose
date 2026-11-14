@@ -176,8 +176,6 @@ def build_rss(cfg: dict, episodes: list[dict], root: Path) -> str:
         item.append(E("description", desc))
         item.append(E("pubDate", _rfc2822(ep["pub_date"])))
         audio_url = base_url.rstrip("/") + "/" + fname.lstrip("/")
-        if ep.get("resync"):
-            audio_url = f"{audio_url}?resync={ep['resync']}"
         item.append(E("enclosure", attrs={
             "url": audio_url, "type": "audio/mpeg",
             "length": str(ep.get("size_bytes", 0))
