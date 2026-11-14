@@ -47,6 +47,13 @@ def episode_page_url(cfg: dict, ep: dict) -> str:
     return f"{website}{ep['id']}.html"
 
 
+def audio_src(ep: dict) -> str:
+    src = f"./audio/{xml_escape(ep['file'])}"
+    if ep.get("resync"):
+        src += f"?v={xml_escape(str(ep['resync']))}"
+    return src
+
+
 def episode_rss_description(root: Path, ep: dict) -> str:
     notes = load_shownotes(root, ep)
     return notes or ep.get("desc", "")
@@ -98,7 +105,7 @@ def render_episode_page(cfg: dict, ep: dict, notes: str) -> str:
   <main>
     <p class="back"><a href="./">← {show}</a></p>
     <h1>{title}</h1>
-    <audio controls preload="none" src="./audio/{xml_escape(ep["file"])}"></audio>
+    <audio controls preload="none" src="{audio_src(ep)}"></audio>
     <div class="notes">
 {notes}
     </div>
@@ -209,7 +216,7 @@ def render_index(cfg: dict, episodes: list[dict], root: Path) -> str:
             f"""    <div class="ep">
       <strong>{xml_escape(ep["title"])}</strong>
       <p>{xml_escape(ep.get("desc", ""))}</p>
-      <audio controls preload="none" src="./audio/{xml_escape(ep["file"])}"></audio>{notes_link}
+      <audio controls preload="none" src="{audio_src(ep)}"></audio>{notes_link}
     </div>"""
         )
     body = "\n".join(items) if items else "    <p>No episodes yet.</p>"
