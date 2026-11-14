@@ -1,0 +1,14 @@
+{
+  "podcast": {
+    "title": "Spontaneous Prose",
+    "author": "Joyce",
+    "description": "An all-English podcast by Joyce. Spoken drafts, not recitations — English you can hear at full speed.",
+    "language": "en",
+    "website": "https://joycenotebook.github.io/spontaneous-prose/",
+    "feed_url": "https://joycenotebook.github.io/spontaneous-prose/feed.xml",
+    "email": "lijiexin2010@163.com",
+    "audio_base_url": "https://joycenotebook.github.io/spontaneous-prose/audio",
+    "cover_url": "https://joycenotebook.github.io/spontaneous-prose/cover.jpg"
+  },
+  "episodes": []
+}

@@ -1,0 +1,7 @@
+.DS_Store
+*.wav
+.work/
+.env
+.env.*
+*.pyc
+__pycache__/

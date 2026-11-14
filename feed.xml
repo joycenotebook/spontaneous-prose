@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Spontaneous Prose</title>
+    <link>https://joycenotebook.github.io/spontaneous-prose/</link>
+    <atom:link href="https://joycenotebook.github.io/spontaneous-prose/feed.xml" rel="self" type="application/rss+xml" />
+    <description>An all-English podcast by Joyce. Spoken drafts, not recitations — English you can hear at full speed.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Nov 2026 09:09:18 +0000</lastBuildDate>
+    <generator>spontaneous-prose</generator>
+    <itunes:owner>
+      <email>lijiexin2010@163.com</email>
+    </itunes:owner>
+    <itunes:author>Joyce</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>An all-English podcast by Joyce. Spoken drafts, not recitations — English you can hear at full speed.</itunes:subtitle>
+    <itunes:summary>An all-English podcast by Joyce. Spoken drafts, not recitations — English you can hear at full speed.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://joycenotebook.github.io/spontaneous-prose/cover.jpg" />
+    <image>
+      <url>https://joycenotebook.github.io/spontaneous-prose/cover.jpg</url>
+      <title>Spontaneous Prose</title>
+      <link>https://joycenotebook.github.io/spontaneous-prose/</link>
+    </image>
+  </channel>
+</rss>
